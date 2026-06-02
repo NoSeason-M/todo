@@ -2,6 +2,10 @@
 
 基于 **Vue 3 + Vite + Pinia + Element Plus + ECharts** 构建的轻量级任务管理单页应用。数据存储在浏览器 localStorage 中，无需后端服务。
 
+**项目地址**
+
+> https://github.com/NoSeason-M/todo.git
+
 ## 功能特性
 
 - **任务 CRUD** — 新增、编辑、删除任务
